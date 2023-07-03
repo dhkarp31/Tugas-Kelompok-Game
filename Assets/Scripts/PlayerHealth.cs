@@ -8,6 +8,8 @@ public class PlayerHealth : MonoBehaviour
     private float lerpTimer;
     [Header("Health Bar")]
     public int maxHealth = 100;
+    public GameObject losePanel;
+    public GameObject playerUI;
     public float chipSpeed = 2f;
     public Image frontHealthBar;
     public Image backHealthBar;
@@ -71,11 +73,23 @@ public class PlayerHealth : MonoBehaviour
         lerpTimer = 0f;
         durationTimer = 0;
         overlay.color = new Color(overlay.color.r, overlay.color.g, overlay.color.b, 1);
+
+        if (health == 0)
+        {
+            die();
+        }
     }
 
     public void RestoreHealth(float healAmount)
     {
         health += healAmount;
         lerpTimer = 0f;
+    }
+
+    private void die()
+    {
+        Time.timeScale = 0f;
+        losePanel.SetActive(true);
+        playerUI.SetActive(false);
     }
 }
