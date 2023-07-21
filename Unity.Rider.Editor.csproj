@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{97900d6e-1325-eb4e-5ecb-58b369993bc9}</ProjectGuid>
+    <ProjectGuid>{14a50c27-fea3-7f90-6447-86bc0aca7d5e}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Rider.Editor</AssemblyName>
@@ -307,7 +307,7 @@
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\GameProject\My project (5)\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\mscorlib.dll</HintPath>
@@ -658,19 +658,19 @@
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\MonoBleedingEdge\lib\mono\4.7.1-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:\GameProject\My project (5)\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:\GameProject\My project (5)\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{234d891a-2171-84d0-c4a8-104da2fe56a9}</Project>
+      <Project>{68c1a337-a0ad-5c7d-7e00-fb773288e137}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{7c6c938f-67d9-79a8-7b10-538ac4a2779a}</Project>
+      <Project>{19e1a6e5-5382-4269-7f73-86ebca189431}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

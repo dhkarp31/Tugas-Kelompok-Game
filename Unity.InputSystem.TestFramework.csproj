@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3df79aac-0499-633a-27f4-5852d3448669}</ProjectGuid>
+    <ProjectGuid>{1128db09-3823-86ec-da27-e07b7431f1d8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.InputSystem.TestFramework</AssemblyName>
@@ -267,7 +267,7 @@
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\GameProject\My project (5)\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -615,23 +615,23 @@
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:\GameProject\My project (5)\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:\GameProject\My project (5)\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{d1b91b4b-4db0-df9d-783c-906f25678b53}</Project>
+      <Project>{98d7f2a4-9ada-7f66-bd61-c906d4930cae}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{7c6c938f-67d9-79a8-7b10-538ac4a2779a}</Project>
+      <Project>{19e1a6e5-5382-4269-7f73-86ebca189431}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{234d891a-2171-84d0-c4a8-104da2fe56a9}</Project>
+      <Project>{68c1a337-a0ad-5c7d-7e00-fb773288e137}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{33ca180e-f1f8-95f7-c8ee-5280fb6545b5}</ProjectGuid>
+    <ProjectGuid>{ebb3d667-114d-3ab7-2833-6860af7fb9a6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -615,48 +615,51 @@
     <Reference Include="System.Xml.Serialization">
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>D:\GameProject\My project (5)\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>D:\GameProject\My project (5)\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.VSCode.Editor.csproj">
-      <Project>{eb1c23b7-413f-5e58-3dc2-5199f4b2bee5}</Project>
+      <Project>{3ef54ced-319d-92b8-f009-f1dabace3788}</Project>
       <Name>Unity.VSCode.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
-      <Project>{fee9f468-2d6d-f36d-9662-0672584e378d}</Project>
+      <Project>{b90b4703-57d5-4e42-e9a9-6d1f5b013893}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
-      <Project>{161a2dc1-00c2-fbfa-919f-9adc68751473}</Project>
+      <Project>{efb9e191-cc05-c66e-5d4d-8d651739bca3}</Project>
       <Name>Unity.VisualStudio.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{4c0e4dc7-58b0-bfe4-bd69-f0ba1ddfa932}</Project>
+      <Project>{aa4745b7-a490-f048-fe86-d079d008a461}</Project>
       <Name>Unity.Timeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{5a415cb8-f832-0c1f-64e6-b84f0f8fb886}</Project>
+      <Project>{a10e3c72-ae1a-67e2-7b3e-38fde3d5acf9}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{5a804ad7-f19d-d65f-94bf-8bb96d42e939}</Project>
+      <Project>{e658a646-4826-d20c-e53f-7a261778767d}</Project>
       <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InputSystem.csproj">
-      <Project>{d1b91b4b-4db0-df9d-783c-906f25678b53}</Project>
+      <Project>{98d7f2a4-9ada-7f66-bd61-c906d4930cae}</Project>
       <Name>Unity.InputSystem</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{97900d6e-1325-eb4e-5ecb-58b369993bc9}</Project>
+      <Project>{14a50c27-fea3-7f90-6447-86bc0aca7d5e}</Project>
       <Name>Unity.Rider.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{230f1fa3-9d07-abc4-c7e4-890e8da2e77f}</Project>
+      <Project>{72bcf62d-9d39-da1c-8797-ab529394a308}</Project>
       <Name>Unity.PlasticSCM.Editor</Name>
     </ProjectReference>
   </ItemGroup>

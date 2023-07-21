@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7c6c938f-67d9-79a8-7b10-538ac4a2779a}</ProjectGuid>
+    <ProjectGuid>{19e1a6e5-5382-4269-7f73-86ebca189431}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEngine.TestRunner</AssemblyName>
@@ -382,7 +382,7 @@
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>D:\GameProject\My project (5)\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+        <HintPath>D:\GameProject\Kill All Enemy !!!\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>D:\Program Files\Unity Hub\Editor\2020.3.47f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>

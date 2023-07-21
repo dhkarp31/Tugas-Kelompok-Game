@@ -50,7 +50,7 @@ public class PlayerHealth : MonoBehaviour
         if (fillB > hFraction)
         {
             frontHealthBar.fillAmount = hFraction;
-            backHealthBar.color = Color.red;
+            backHealthBar.color = Color.yellow;
             lerpTimer += Time.deltaTime;
             float percentComplete = lerpTimer / chipSpeed;
             backHealthBar.fillAmount = Mathf.Lerp(fillB, hFraction, percentComplete);
